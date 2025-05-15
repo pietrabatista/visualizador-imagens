@@ -1,0 +1,7 @@
+# Ambiente virtual
+venv/
+
+# Caches e arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*.so
